@@ -1,0 +1,6 @@
+1. Prepare Code: Organize and package your Spark application.
+2. Copy Dependencies:Ensure required libraries are accessible. 
+3. Code Modularization:
+      --Break down the code into modular functions or classes for better maintainability and reusability.
+4.  Submit Job:Use `spark-submit` to submit the job. 
+        
