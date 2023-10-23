@@ -1,0 +1,10 @@
+appName = 'KafkaEventProcessor'
+bootstrap_server="localhost:9092"
+topic= "event"
+mysql_url = "jdbc:mysql://localhost:3306/kafka_db"
+advertiser = 'advertiser'
+adslot = 'adslot'
+username="root"
+mysql_passwd = 'bhagwat@mysql'
+advertiser_tab = 'advertiser'
+adslot_tab = 'adslot'
